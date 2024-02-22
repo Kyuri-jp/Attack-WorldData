@@ -1,4 +1,6 @@
 # Attack-WorldData
+[![downloads](https://img.shields.io/github/downloads/Kyuri-jp/Attack-WorldData/total?logo=github)](https://github.com/Kyuri-jp/AttackDatapackAndResourcepack/releases/latest)
+
 Attack's world data. If you debug,pleace use this.
 
 # Attention
